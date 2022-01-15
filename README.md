@@ -105,6 +105,3 @@ If you discover any security-related issues, please email taghassan54@gmail.com 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [link-author]: https://github.com/taghassan54
-[link-contributors]: ../../contributors
-[link-releases]: ../../releases
-[link-packagist]: https://packagist.org/packages/taghassan54/laravel-arabic-numbers
